@@ -1,7 +1,7 @@
                             --- V E D I K A    Y A D A V ---
 
-Data Science | Machine Learning | Data Visualization | Power BI | Tableau | AI | Python | Databases
-----------------------------------------------------------------------------------------------------
+Data Science | Machine Learning | Data Visualization | Power BI | Tableau | AI | Python | Databases | Qlik Sense | Alteryx
+--------------------------------------------------------------------------------------------------------------------------
 
 Experienced Python developer with a passion for AI/ML, boasting robust presentation and interpersonal abilities. Possessing strong numeracy
 and problem-solving skills, I thrive in team-oriented environments. Backed by a solid computer science foundation and a Master's degree in
